@@ -1,1 +1,12 @@
 C:\Users\amWRit\AppData\Local\Temporary Projects\Picture Resize Tool\bin\Debug\Picture Resize Tool.exe.config
+C:\Users\amWRit\Documents\Visual Studio 2015\Projects\Picture Resize Tool\Picture Resize Tool\bin\Debug\Picture Resize Tool.exe.config
+C:\Users\amWRit\Documents\Visual Studio 2015\Projects\Picture Resize Tool\Picture Resize Tool\bin\Debug\Picture Resize Tool.exe
+C:\Users\amWRit\Documents\Visual Studio 2015\Projects\Picture Resize Tool\Picture Resize Tool\bin\Debug\Picture Resize Tool.pdb
+C:\Users\amWRit\Documents\Visual Studio 2015\Projects\Picture Resize Tool\Picture Resize Tool\bin\Debug\Picture Resize Tool.xml
+C:\Users\amWRit\Documents\Visual Studio 2015\Projects\Picture Resize Tool\Picture Resize Tool\obj\Debug\Picture Resize Tool.vbprojResolveAssemblyReference.cache
+C:\Users\amWRit\Documents\Visual Studio 2015\Projects\Picture Resize Tool\Picture Resize Tool\obj\Debug\Picture_Resize_Tool.Resources.resources
+C:\Users\amWRit\Documents\Visual Studio 2015\Projects\Picture Resize Tool\Picture Resize Tool\obj\Debug\Picture Resize Tool.vbproj.GenerateResource.Cache
+C:\Users\amWRit\Documents\Visual Studio 2015\Projects\Picture Resize Tool\Picture Resize Tool\obj\Debug\Picture Resize Tool.exe
+C:\Users\amWRit\Documents\Visual Studio 2015\Projects\Picture Resize Tool\Picture Resize Tool\obj\Debug\Picture Resize Tool.xml
+C:\Users\amWRit\Documents\Visual Studio 2015\Projects\Picture Resize Tool\Picture Resize Tool\obj\Debug\Picture Resize Tool.pdb
+C:\Users\amWRit\Documents\Visual Studio 2015\Projects\Picture Resize Tool\Picture Resize Tool\obj\Debug\Picture_Resize_Tool.splash.resources
